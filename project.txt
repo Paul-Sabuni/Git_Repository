@@ -1,1 +1,2 @@
 hello! this my project for the git and github code
+The git help to share knowledge with other developer around the grobe
